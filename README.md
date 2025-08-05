@@ -30,9 +30,6 @@
 <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
 <img src="https://img.icons8.com/ios/50/000000/github.png" alt="GitHub"/>
 
----
-
-### 💻 Workspace Spec  
 ### 💻 Workspace Spec  
 ![Lenovo](https://img.shields.io/badge/Lenovo-LOQ-blue?style=flat-square&logo=lenovo)
 ![Intel](https://img.shields.io/badge/Intel-green?style=flat-square&logo=intel)
