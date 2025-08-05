@@ -30,5 +30,5 @@
 ![Lenovo](https://img.shields.io/badge/Lenovo-LOQ-blue?style=flat-square&logo=lenovo)
 ![Intel](https://img.shields.io/badge/Intel-green?style=flat-square&logo=intel)
 
-<! -- force refresh -->
+<!-- force refresh -->
 
